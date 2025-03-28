@@ -1,3 +1,3 @@
 # Data-Science
-Print ("hello")
-intall python
+- git config
+- git config
